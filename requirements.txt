@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+lxml
+line-bot-sdk
+pandas
+jieba
+Flask-APScheduler
+Swinger
+gunicorn
